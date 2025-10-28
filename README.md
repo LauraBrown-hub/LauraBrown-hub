@@ -23,7 +23,7 @@ Cloud/Other: Excel, Google Sheets, AWS, Git.
 * 😄  Pronouns: She/Her
 * ⚡ Fun facts: I enjoy Photography and have many different small art projects, ranging from paintings, needle felting, painting & building minatures as well as cross stitching and playing adventure role playing games, which alows me to flex my problem solving skills.
 * 🌱 I’m currently learning and expanding my knowledge on Excel, Power Bi, Tableau, Python, Azure and looking at strengthing these skills and looking to related projects to gain more knowledge.
-* 🖥️  See my portfolio at [https://sites.google.com/view/laurabrown/]
+* 🖥️  See my portfolio at [Laura Brown](https://sites.google.com/view/laurabrown/home)
 * ✉️  You can contact me at [laurabrown33@aol.co.uk](mailto:laurabrown33@aol.co.uk)
 
 <p align="left">
