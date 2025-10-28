@@ -25,6 +25,8 @@ Cloud/Other: Excel, Google Sheets, AWS, Git.
 * 🌱 I’m currently learning and expanding my knowledge on Excel, Power Bi, Tableau, Python, Azure and looking at strengthing these skills and looking to related projects to gain more knowledge.
 * 🖥️  See my portfolio at [Laura Brown](https://sites.google.com/view/laurabrown/home)
 * ✉️  You can contact me at [laurabrown33@aol.co.uk](mailto:laurabrown33@aol.co.uk)
+* My LinkedIn is [Laura Brown](www.linkedin.com/in/)
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a>
